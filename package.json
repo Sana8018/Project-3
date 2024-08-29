@@ -1,15 +1,16 @@
 {
-  "name": "atm",
+  "name": "sana-22atm",
   "version": "1.0.1",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": "",
+  "license": "MIT",
+  "description": "A ATM machine with typescript, node.js and inquirer",
   "dependencies": {
     "inquirer": "^9.2.22"
   },
